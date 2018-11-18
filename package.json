@@ -1,7 +1,7 @@
 {
   "name": "es6hello",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js+webpack4+babelのひな形となるプロジェクト",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
